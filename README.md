@@ -52,7 +52,7 @@ back - https://github.com/neleon10/aydocLocalRespository </p>
 
 
 <h2>APP VIDEOGAMES</h2>
-<p> This is a fullstack app that i made, that gives you the opportunity to search, filter, sort, create and delete videojuegos. </p>
+<p> This is a fullstack app that i made, that gives you the opportunity to search, filter, sort, create and delete videogames. </p>
 <p> Basically a CRUD fullstack app, in which I had to make frontend, backend and also the db models myself. </p>
 <p> Code: https://github.com/IvanVelazquezz98/APP-VIDEOGAMES</p>
 <p> Page: -.</p>
@@ -76,7 +76,7 @@ back - https://github.com/neleon10/aydocLocalRespository </p>
 
 
 <h2>APP FOODS</h2>
-<p> This is a fullstack app that i made, that gives you the opportunity to search, filter, sort and createrecipes. </p>
+<p> This is a fullstack app that i made, that gives you the opportunity to search, filter, sort and create recipes. </p>
 <p> Basically a CRUD fullstack app, in which I had to make frontend, backend and also the db models myself. </p>
 <p> Code: https://github.com/IvanVelazquezz98/APP-FOOD</p>
 <p> Page: -.</p>
