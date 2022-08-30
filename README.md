@@ -42,11 +42,11 @@ back: https://github.com/neleon10/aydocLocalRespository </p>
 
 
 <p> Home </p>
-<!-- <img src='https://raw.githubusercontent.com/IvanVelazquezz98/IvanVelazquezz98/master/assets/homeMA.jpg'>
+<img src='https://raw.githubusercontent.com/IvanVelazquezz98/IvanVelazquezz98/master/assets/homeMA.jpg'>
 <p> User Profile </p>
 <img src='https://raw.githubusercontent.com/IvanVelazquezz98/IvanVelazquezz98/master/assets/profileMA.jpg'>
 <p> Services </p>
-<img src='https://raw.githubusercontent.com/IvanVelazquezz98/IvanVelazquezz98/master/assets/servicesMA.jpg'> -->
+<img src='https://raw.githubusercontent.com/IvanVelazquezz98/IvanVelazquezz98/master/assets/servicesMA.jpg'>
 
 
 
@@ -58,7 +58,7 @@ back: https://github.com/neleon10/aydocLocalRespository </p>
 <p>Let's see a little bit of the app: </p>
 
 <p> Home </p>
-<!-- <img src='https://raw.githubusercontent.com/IvanVelazquezz98/IvanVelazquezz98/master/assets/home.jpg'>
+<img src='https://raw.githubusercontent.com/IvanVelazquezz98/IvanVelazquezz98/master/assets/home.jpg'>
 <p> Game detail </p>
 <img src='https://raw.githubusercontent.com/IvanVelazquezz98/IvanVelazquezz98/master/assets/gamedetail.jpg'>
 <p> Create Videogames </p>
@@ -67,7 +67,7 @@ back: https://github.com/neleon10/aydocLocalRespository </p>
 <p> Filters </p>
 <img src='https://raw.githubusercontent.com/IvanVelazquezz98/IvanVelazquezz98/master/assets/filters.jpg'>
 <p> Favorites </p>
-<img src='https://raw.githubusercontent.com/IvanVelazquezz98/IvanVelazquezz98/master/assets/favorites.jpg'> -->
+<img src='https://raw.githubusercontent.com/IvanVelazquezz98/IvanVelazquezz98/master/assets/favorites.jpg'>
 
 
 <h2>APP FOODS</h2>
@@ -78,7 +78,7 @@ back: https://github.com/neleon10/aydocLocalRespository </p>
 <p>Let's see a little bit of the app: </p>
 
 <p> Landing page </p>
-<!-- <img src='https://raw.githubusercontent.com/IvanVelazquezz98/APP-FOOD/master/assets/landing.jpg'>
+<img src='https://raw.githubusercontent.com/IvanVelazquezz98/APP-FOOD/master/assets/landing.jpg'>
 <p> Home </p>
 <img src='https://raw.githubusercontent.com/IvanVelazquezz98/APP-FOOD/master/assets/homefoods.jpg'>
 <p> Recipe detail </p>
@@ -87,7 +87,7 @@ back: https://github.com/neleon10/aydocLocalRespository </p>
 <img src='https://raw.githubusercontent.com/IvanVelazquezz98/IvanVelazquezz98/master/assets/createrecipe.jpg'>
 <img src='https://raw.githubusercontent.com/IvanVelazquezz98/IvanVelazquezz98/master/assets/createrecipe2.jpg'>
 <p> Search </p>
-<img src='https://raw.githubusercontent.com/IvanVelazquezz98/IvanVelazquezz98/master/assets/search.jpg'> -->
+<img src='https://raw.githubusercontent.com/IvanVelazquezz98/IvanVelazquezz98/master/assets/search.jpg'>
 
 
 
