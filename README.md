@@ -27,7 +27,7 @@ const Me = {
 ```
 <hr>
 
-### Projects that i made myself: 
+ 
 
 <h2> Medicine App</h2>
 <p>● Teamwork developing a Marketplace type app to be able to register and log in through Google or a username and password, to:
@@ -49,7 +49,7 @@ back - https://github.com/neleon10/MEDICINE-APP-BACK </p>
 <h4> Services </h4>
 <img src='https://raw.githubusercontent.com/IvanVelazquezz98/IvanVelazquezz98/master/assets/servicesMA.jpg'>
 
-
+### Projects that i made myself:
 
 <h2>APP VIDEOGAMES</h2>
 <p> This is a fullstack app that i made, that gives you the opportunity to search, filter, sort, create and delete videogames. </p>
