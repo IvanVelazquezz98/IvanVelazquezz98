@@ -21,8 +21,7 @@ const Me = {
     backEnd: [Node, Express, PostgreSQL]
   },
   tools: [Postman, PGAdmin4, Git],
-  architecture: ["MVC", "REST", "SPA"],
-  hobbies: [soccer, Coding, Videogames],
+  hobbies: [Soccer, Coding, Videogames],
   challenge: "Currently studying at university and at the SoyHenry.com bootcamp"
 }
 ```
