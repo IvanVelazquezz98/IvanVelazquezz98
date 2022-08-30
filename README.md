@@ -41,13 +41,13 @@ back - https://github.com/neleon10/aydocLocalRespository </p>
 <p>Let's see a little bit of the app: </p>
 
 
-<p> Home </p>
+<h4> Home </h4>
 <img src='https://raw.githubusercontent.com/IvanVelazquezz98/IvanVelazquezz98/master/assets/homeMA.jpg'>
 <br></br>
-<p> User Profile </p>
+<h4> User Profile </h4>
 <img src='https://raw.githubusercontent.com/IvanVelazquezz98/IvanVelazquezz98/master/assets/profileMA.jpg'>
 <br></br>
-<p> Services </p>
+<h4> Services </h4>
 <img src='https://raw.githubusercontent.com/IvanVelazquezz98/IvanVelazquezz98/master/assets/servicesMA.jpg'>
 
 
@@ -59,20 +59,20 @@ back - https://github.com/neleon10/aydocLocalRespository </p>
 <p> Page: -.</p>
 <p>Let's see a little bit of the app: </p>
 
-<p> Home </p>
+<h4> Home </h4>
 <img src='https://raw.githubusercontent.com/IvanVelazquezz98/IvanVelazquezz98/master/assets/home.jpg'>
 <br></br>
-<p> Game detail </p>
+<h4> Game detail </h4>
 <img src='https://raw.githubusercontent.com/IvanVelazquezz98/IvanVelazquezz98/master/assets/gamedetail.jpg'>
 <br></br>
-<p> Create Videogames </p>
+<h4> Create Videogames </h4>
 <img src='https://raw.githubusercontent.com/IvanVelazquezz98/IvanVelazquezz98/master/assets/creategame1.jpg'>
 <img src='https://raw.githubusercontent.com/IvanVelazquezz98/IvanVelazquezz98/master/assets/creategame2.jpg'>
 <br></br>
-<p> Filters </p>
+<h4> Filters </h4>
 <img src='https://raw.githubusercontent.com/IvanVelazquezz98/IvanVelazquezz98/master/assets/filters.jpg'>
 <br></br>
-<p> Favorites </p>
+<h4> Favorites </h4>
 <img src='https://raw.githubusercontent.com/IvanVelazquezz98/IvanVelazquezz98/master/assets/favorites.jpg'>
 
 
@@ -83,20 +83,20 @@ back - https://github.com/neleon10/aydocLocalRespository </p>
 <p> Page: -.</p>
 <p>Let's see a little bit of the app: </p>
 
-<p> Landing page </p>
+<h4> Landing page </h4>
 <img src='https://raw.githubusercontent.com/IvanVelazquezz98/IvanVelazquezz98/master/assets/landing.jpg'>
 <br></br>
-<p> Home </p>
+<h4> Home </h4>
 <img src='https://raw.githubusercontent.com/IvanVelazquezz98/IvanVelazquezz98/master/assets/homefoods.jpg'>
 <br></br>
-<p> Recipe detail </p>
+<h4> Recipe detail </h4>
 <img src='https://raw.githubusercontent.com/IvanVelazquezz98/IvanVelazquezz98/master/assets/detailfood.jpg'>
 <br></br>
-<p> Create Recipe </p>
+<h4> Create Recipe </h4>
 <img src='https://raw.githubusercontent.com/IvanVelazquezz98/IvanVelazquezz98/master/assets/createrecipe.jpg'>
 <img src='https://raw.githubusercontent.com/IvanVelazquezz98/IvanVelazquezz98/master/assets/createrecipe2.jpg'>
 <br></br>
-<p> Search </p>
+<h4> Search </h4>
 <img src='https://raw.githubusercontent.com/IvanVelazquezz98/IvanVelazquezz98/master/assets/search.jpg'>
 
 
