@@ -79,7 +79,7 @@ back - https://github.com/neleon10/MEDICINE-APP-BACK </p>
 <p> This is a fullstack app that i made, that gives you the opportunity to search, filter, sort and create recipes. </p>
 <p> Basically a CRUD fullstack app, in which I had to make frontend, backend and also the db models myself. </p>
 <p> Code: https://github.com/IvanVelazquezz98/APP-FOOD</p>
-<p> Page: -.</p>
+<p> App presentation video: https://www.linkedin.com/feed/update/urn:li:activity:6970453383388258304/.</p>
 <p>Let's see a little bit of the app: </p>
 
 <h4> Landing page </h4>
