@@ -18,7 +18,7 @@ const Me = {
   Code: [Javascript, Typescript, HTML, CSS],
   technologies: {
     frontEnd: [React, Redux, Bootstrap],
-    backEnd: [Node, Express, PostgreSQL]
+    backEnd: [Node, Express, PostgreSQL,Sequelize]
   },
   tools: [Postman, PGAdmin4, Git],
   hobbies: [Soccer, Coding, Videogames],
