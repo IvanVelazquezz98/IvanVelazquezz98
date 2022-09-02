@@ -55,7 +55,7 @@ back - https://github.com/neleon10/MEDICINE-APP-BACK </p>
 <p> This is a fullstack app that i made, that gives you the opportunity to search, filter, sort, create and delete videogames. </p>
 <p> Basically a CRUD fullstack app, in which I had to make frontend, backend and also the db models myself. </p>
 <p> Code: https://github.com/IvanVelazquezz98/APP-VIDEOGAMES</p>
-<p> Page: -.</p>
+<p> Page: https://appvideogames.vercel.app/.</p>
 <p>Let's see a little bit of the app: </p>
 
 <h4> Home </h4>
