@@ -15,7 +15,7 @@
 ```javascript
 const Me = {
   pronouns: "he" | "him",
-  Code: [Javascript, Typescript, HTML, CSS],
+  Code: [JavaScript, TypesSript, HTML, CSS],
   technologies: {
     frontEnd: [React, Redux, Bootstrap],
     backEnd: [Node, Express, PostgreSQL,Sequelize]
