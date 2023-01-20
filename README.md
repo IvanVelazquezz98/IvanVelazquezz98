@@ -17,7 +17,7 @@ const Me = {
   pronouns: "he" | "him",
   Code: [JavaScript, TypeScript, HTML, CSS],
   technologies: {
-    frontEnd: [React, Redux, Bootstrap],
+    frontEnd: [Next, React, Redux, Bootstrap],
     backEnd: [Node, Express, PostgreSQL, Sequelize]
   },
   tools: [Postman, PGAdmin4, Git],
