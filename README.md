@@ -6,7 +6,7 @@
 [![Mail: Ivan Velazquez](https://img.shields.io/badge/-Mail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Velazquez.ivan.e98@gmail.com)](mailto:Velazquez.ivan.e98@gmail.com)
 
 ### About me
-<p>Hi, I am Ivan and I am 23 years old. I am a fullstack, front-end oriented developer.</p>
+<p>Hi, I am Ivan and I am 24 years old. I am a fullstack, front-end oriented developer.</p>
 <p> If you like, we can get in touch via my social media above.</p>
 <hr>
 
