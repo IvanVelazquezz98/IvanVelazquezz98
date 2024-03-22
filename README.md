@@ -22,7 +22,7 @@ const Me = {
   },
   tools: [Postman, PGAdmin4, Git],
   hobbies: [Soccer, Coding, Videogames],
-  challenge: "Currently a graduate of bootcamp I am Henry and studying a degree in computer science.
+  challenge: "Currently a graduate of bootcamp 'YoSoyHenry' and studying a degree in computer science.
   I NEVER STOP LEARNING"
 }
 ```
