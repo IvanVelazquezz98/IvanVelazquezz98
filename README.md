@@ -15,10 +15,10 @@
 ```javascript
 const Me = {
   pronouns: "he" | "him",
-  Code: [JavaScript, TypeScript, HTML, CSS],
+  Code: [JavaScript, TypeScript, HTML, CSS, Java, C#],
   technologies: {
-    frontEnd: [Next, React, Redux, Bootstrap],
-    backEnd: [Node, Express, PostgreSQL, Sequelize]
+    frontEnd: [Next, React, Redux, Bootstrap, React Native],
+    backEnd: [Node, Express, PostgreSQL, Sequelize, Quarkus, Hibernate, Spring boot]
   },
   tools: [Postman, PGAdmin4, Git],
   hobbies: [Soccer, Coding, Videogames],
